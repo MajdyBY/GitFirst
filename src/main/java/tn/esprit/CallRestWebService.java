@@ -15,10 +15,11 @@ import org.json.JSONObject;
  * URL utiles :
  * http://theoryapp.com/parse-json-in-java/
  * https://jsonformatter.curiousconcept.com/
- * 
+ *
+ * sal
  *
  */
-
+//first commit 
 public class CallRestWebService {
 
 	public static final String endpoint = "http://ip-api.com/json";
